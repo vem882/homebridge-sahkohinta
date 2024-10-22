@@ -1,0 +1,11 @@
+{
+    "accessories": [
+      {
+        "accessory": "SahkoHinta",
+        "name": "SahkoHinta",
+        "apiURL": "https://www.sahkohinta-api.fi/api/v1/halpa",
+        "updateInterval": 3600000,
+        "tunnit": 1
+      }
+    ]
+  }
